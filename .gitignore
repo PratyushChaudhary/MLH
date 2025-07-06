@@ -1,0 +1,21 @@
+# macOS junk
+.DS_Store
+
+# offensive data
+GHW/Fine-Tune_a_Foundation_Model_1/offensive/
+
+# images that may contain offensive data
+GHW/Fine-Tune_a_Foundation_Model_1/images/
+
+# directory structure 
+structure.txt
+
+# STRICT
+# macOS junk
+.DS_Store
+
+# any offensive folder anywhere
+**/offensive/
+
+# any images folder anywhere
+**/images/
